@@ -1,0 +1,1102 @@
+{
+    "intents": [
+        {
+            "tag": "i do not nunderstand",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "Please, be more specific about the questions you ask?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "intro",
+            "patterns": [
+                "What is your name?",
+                "who are you?",
+                "who are u?",
+                "What is your work?",
+                "what do u do?"
+            ],
+            "responses": [
+                "My name is Cancer-O-Bot. Ask me anything about Cancer.."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "greet",
+            "patterns": [
+                "Hi there",
+                "How are you",
+                "Is anyone there?",
+                "Hey", "Hii",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hi there, How can i help?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Nice chatting to you, bye",
+                "Till next time"
+            ],
+            "responses": [
+                "Bye! Have a nice day"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Awesome, thanks",
+                "Thanks for helping me"
+            ],
+            "responses": [
+                "My pleasure. Anything else i can do for you."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "options",
+            "patterns": [
+                "How you could help me?",
+                "What you can do?",
+                "What help you provide?",
+                "How you can be helpful?",
+                "What support is offered"
+            ],
+            "responses": [
+                "I have information about Cancer, from its various types to how to avoid it."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "aboutcancer",
+            "patterns": [
+                "What is Cancer?",
+                "Describe cancer?",
+                "explain cancer.",
+                "Tell me something about cancer."
+            ],
+            "responses": [
+                "Cancer is a disease in which some of the body's cells grow uncontrollably and spread to other parts of the body. It can start almost anywhere in the human body, which is made up of trillions of the cells. Normally, when a cell grow old or gets damaged, they die and new cells replace them by the process of cell division. When this orderly function breaks down, abnormal or damaged cells grow and multiply when they shouldn't. These cells may form tumors (lump of tissues) and becomes tumors."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cancerousandnoncancerous",
+            "patterns": [
+                "can tumors become cancer?",
+                "can tumors be cancerous and noncancerous?",
+                "various types of tumors",
+                "which type of tumors becomes cancer?",
+                "maligant tumor or benign tumor",
+                "maligant cells or tumors",
+                "benign cells or tumors"
+            ],
+            "responses": [
+                "Tumors (lump of tissues) can be cancerous or non-cancerous. Cancerous tumors are called as Maligant Tumors. These tumors spread into, or invade, nearby tissues and can travel to distant places in the body to form new tumors. Non-cancerous tumors are called as Benign Tumors. They do not spread into, or invade, nearby tissues."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cancercells and normalcells",
+            "patterns": [
+                "cancer cells different from normal cells",
+                "difference between cancer cells and normal cells",
+                "cancer cells vs normal cells"
+            ],
+            "responses": [
+                "Cancer Cells diifer Normal Cells in many ways suchas normal cells grow only when they receive signals to grow while cancer cells grow abnormally. Cancer cells also ignore signals that tells them to stop dividing. Cancer cells hide from immune system and trick them into helping them to stay alive and grow. Normal cells doesn't spread to others parts of the body but cancer cells does."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "typesofcancer",
+            "patterns": [
+                "different types of cancer",
+                "how many types of cancer",
+                "what are the types of cancer",
+                "types of cancer discovered yet"
+            ],
+            "responses": [
+                "There are more than 100 types of cancer. These types of cancer are usually named for the organs or tissues where the cancers forms. For example - lung cancer starts in the lung, brain cancer starts in the brain and etc. Common types of cancer starts are Carcinoma, Sarcoma, Leukemia, Lymphoma, Multiple Myeloma, Melanoma. All of these lead to developement of cancer in various organs."
+            ],
+            "context": [
+                "Carcinoma, Sarcoma, Leukemia, Lymphoma, Multiple Myeloma, Melanoma"
+            ]
+        },
+        {
+            "tag": "Carcinoma",
+            "patterns": [
+                "what is carcinoma?",
+                "explain carcinoma cancer",
+                "How carcinoma starts in the body?",
+                "carcinoma procedure of cancer"
+            ],
+            "responses": [
+                "Carcinoma is most common types of Cancer. They occur in Epithelial Cells, which are the cells that cover outside and inside surfaces of the body. There are various types of Epithelial Cells, so cancer starting at different have specific names like Adenocarcinoma, Basal Cell Carcinoma, Squamous Cell Carcinoma, Transitional Cell Carcinoma etc."
+            ],
+            "context": [
+                "Adenocarcinoma, BasalCellCarcinoma, SquamousCellCarcinoma, TransitionalCellCarcinoma"
+            ]
+        },
+        {
+            "tag": "Adenocarcinoma",
+            "patterns": [
+                "Explain adenocarcinoma",
+                "what is adenocarcinoma?",
+                "adenocarcinoma"
+            ],
+            "responses": [
+                "A type of Carcinoma Cancer which forms in epithelial cells that produce fluid or mucus. Most cancers of the breast, colon and prostate are of this type."
+            ]
+        },
+        {
+            "tag": "BasalCellCarcinoma",
+            "patterns": [
+                "Explain Basal Cell Carcinoma",
+                "what is Basal Cell Carcinoma?",
+                "Basal Cell Carcinoma"
+            ],
+            "responses": [
+                "A type of Carcinoma Cancer that begins in the lower or basal (base) layer of the epidermis, which is a person's outer layer of skin."
+            ]
+        },
+        {
+            "tag": "SquamousCellCarcinoma",
+            "patterns": [
+                "Explain Squamous Cell Carcinoma",
+                "what is Squamous Cell Carcinoma?",
+                "squamous cell carcinoma"
+            ],
+            "responses": [
+                "A type of Carcinoma Cancer that forms in squamous cells, which are the epithelial cells that lie just beneath the outer surface of the skin. Squamous cells also line many other organs like stomach, intestines, lungs, bladder and kidneys. Squamous Cell Cancer sometimes also called as Epidermoid Carcinomas."
+            ]
+        },
+        {
+            "tag": "TransitionalCellCarcinoma",
+            "patterns": [
+                "Explain Transitional Cell Carcinoma",
+                "what is Transitional Cell Carcinoma?",
+                "Transitional Cell Carcinoma"
+            ],
+            "responses": [
+                "A type of Carcinoma Cancer that forms in epithelial tissues called urothelium. These tissues are found in the linings of the bladder, ureters and part of the lidneys, and a few other organs."
+            ]
+        },
+        {
+            "tag": "Sarcoma",
+            "patterns": [
+                "what is sarcoma?",
+                "explain sarcoma cancer",
+                "How sarcoma starts in the body?",
+                "sarcoma procedure of cancer"
+            ],
+            "responses": [
+                "Sarcomas are cancer that form in bone and soft tissues, including muscle, fat, blood vessels, lymph vessels, and fibrous tissues (tendons and ligaments). These cancers are develope anywhere in the body but mostly found in the arms, legs, chest and abdomen."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Leukemia",
+            "patterns": [
+                "what is leukemia?",
+                "explain leukemia cancer",
+                "How leukemia starts in the body?",
+                "leukemia procedure of cancer"
+            ],
+            "responses": [
+                "Leukemia are cancers that begin in the blood-forming tissues of the bone marrow. These cancer do not form solid tumors. Instead, large number of abnormal white blood cells build up in the blood and bone marrow, crowding out normal blood cells. The low level of normal blood cells can make it harder for the body to get oxygen to its tissues, control bleeding, or fight infections. Leukemia are grouped based on how quickly the disease get worse (acute or chronic) and on type of blood cell that cancer starts in (lymphoblastic or myeloid)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Lymphoma",
+            "patterns": [
+                "what is lymphoma?",
+                "explain lymphoma cancer",
+                "How lymphoma starts in the body?",
+                "lymphoma procedure of cancer"
+            ],
+            "responses": [
+                "Lymphoma is cancer that begins in lymphocytes. These are disease-fighting white blood cells that are part of the immune system. In lymphoma, abnormal lymphocytes build up in lymph nodes and lymph vessels, as well as in other organs of the body."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "MultipleMyeloma",
+            "patterns": [
+                "what is Multiple Myeloma?",
+                "explain Multiple Myeloma cancer",
+                "How Multiple Myeloma starts in the body?",
+                "Multiple Myeloma procedure of cancer"
+            ],
+            "responses": [
+                "Multiple myeloma is cancer that begins in plasma cells, another type of immune cell. The abnormal plasma cells, called myeloma cells, build up in the bone marrow and form tumors in bones all through the body. Multiple myeloma is also called Kahler disease."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Melanoma",
+            "patterns": [
+                "what is Melanoma?",
+                "explain Melanoma cancer",
+                "How Melanoma starts in the body?",
+                "Melanoma procedure of cancer"
+            ],
+            "responses": [
+                "Melanoma is cancer that begins in cells that become melanocytes, which are specialized cells that make melanin (the pigment that gives skin its color). Most melanomas form on the skin, but melanomas can also form in other pigmented tissues, such as the eye."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "organcancer",
+            "patterns": [
+                "which organs are more prone to cancer?",
+                "common organ having cancer",
+                "common types of cancer"
+            ],
+            "responses": [
+                "According to American Cancer Society Facts and Figures, most common types of cancer are Skin Cancer, Brain Cancer, Lung Cancer, Prostate Cancer, Breast Cancer, Colorectal Cancer, Stomach Cancer, Bladder Cancer, Kidney Cancer, Colon or Rectal Cancer etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "skin cancer",
+            "patterns": [
+                "skin cancer",
+                "what is skin cancer?",
+                "define skin cancer",
+                "How skin cancer developed in the body?"
+            ],
+            "responses": [
+                "Skin cancer is the most common form of cancer. It occurs when there is an abnormal growth of skin cells. It most often developes on skin exposed to the sun, including the scalp, face, lips, ears, neck, arms, hand etc. But it can also occur on areas of skin not exposed to the sunlight -- your palms, beneath your fingernails or toenails, and your genital area. Also, Skin cancer affects people of all skin tones, including those with darker complexions."
+            ],
+            "context": [
+                "symptoms skin cancer, diagnosis of skin cancer"
+            ]
+        },
+        {
+            "tag": "symptoms skin cancer",
+            "patterns": [
+                "symptom of skin cancer",
+                "what are skin cancer symptoms?",
+                "tell me about skin cancer symptoms",
+                "skin cancer symptoms in body"
+            ],
+            "responses": [
+                "Skin cancer sysmptons for sun-exposed areas of the body are a pearly or waxy bump, a flat flesh colored scar-like lesion, a bleeding or scabbing sore that heals and returns, a firm-red nodule, a flat lesion with a scaly + crusted surface, a mole that changes in color + size or that bleeds, a painful lesion that itches or burns etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of skin cancer",
+            "patterns": [
+                "skin cancer diagnosis",
+                "what is diagnosis of skin cancer?",
+                "How skin cancer is diagnosed?",
+                "Can skin cancer diagnosed?",
+                "skin cancer treatment",
+                "how is skin cancer treated?"
+            ],
+            "responses": [
+                "Diagnosis of skin cancer involves examining your skin i.e. doctor may look at your skin to determine whether your skin changes are likely to be skin cancer. Also, doctor may remove a sample of suspicious skin for testing (skin biopsy) to determine chances of skin cancer or what type of skin cancer you have. Furthur, Additional test may be done to determine the extent(stage) of skin cancer."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "lung cancer",
+            "patterns": [
+                "lung cancer",
+                "what is lung cancer?",
+                "define lung cancer",
+                "How lung cancer developed in the body?",
+                "does smoking causes lung cancer?",
+                "can a person who never smoked have lung cancer?",
+                "can i have lung cancer, even if i left smoking?"
+            ],
+            "responses": [
+                "Lung cancer is the leading cause of the death worldwide. people who smoke have the greatest risk of lung cancer, though lung cancer can also occur in people who have never smoked. Although, the risk of lung cancer increses with time and number of cigrettes smoked. Even, if u quit smoking, after smoking for years, your chances of getting a lung cancer decreases a bit."
+            ],
+            "context": [
+                "symptoms lung cancer, diagnosis of lung cancer"
+            ]
+        },
+        {
+            "tag": "symptoms lung cancer",
+            "patterns": [
+                "symptom of lung cancer",
+                "what are lung cancer symptoms?",
+                "tell me about lung cancer symptoms",
+                "lung cancer symptoms in body"
+            ],
+            "responses": [
+                "Although lung cancer doesn't cause signs and symptons in its earliest stage, but in later stages symptoms like new cough that doesn't go away, coughing up blood,  shortness of breath, chest pain, losing weight, bone pain, headache etc. may show. You need to contact a doctor if any of these symptons worry you for the same."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of lung cancer",
+            "patterns": [
+                "lung cancer diagnosis",
+                "what is diagnosis of lung cancer?",
+                "How lung cancer is diagnosed?",
+                "Can lung cancer diagnosed?",
+                "lung cancer treatment",
+                "how is lung cancer treated?"
+            ],
+            "responses": [
+                "People who smoked heavily should consider annual lung cancer screening using low-dose CT scans. If your doctor think that you might have a lung cancer, then tests like imaging tests (X-ray image of your lungs), sputum cytology (microscopic level analysis of sputum producing cough) and tissue sample (biopsy of lung cells). Later on, test to determine the extent (stage) of your cancer may be done."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "brain cancer",
+            "patterns": [
+                "brain cancer",
+                "what is brain cancer?",
+                "define brain cancer",
+                "How brain cancer developed in the body?"
+            ],
+            "responses": [
+                "A brain tumor is a mass of growth of abnormal cells in brain. Many different types of brain tumors exist, some are noncancerous (benign) and some are cancerous (malignant). Brain tumors (cancer) can begin in brain called as primary brain tumors or tumors (cancer) can begin in other parts of the body and spread to your brain as secondary brain tumors. Brain tumor growth rate as well as the location of a brain tumor will determine how it will affect the function of your nrevous system and how it will get treated."
+            ],
+            "context": [
+                "symptoms brain cancer, diagnosis of brain cancer"
+            ]
+        },
+        {
+            "tag": "symptoms brain cancer",
+            "patterns": [
+                "symptom of brain cancer",
+                "what are brain cancer symptoms?",
+                "tell me about brain cancer symptoms",
+                "brain cancer symptoms in body"
+            ],
+            "responses": [
+                "The sign's and sympton's of a brain tumor vary greatly and depend on the brain tumor's size, location and rate of growth. General sign's are new changes in the pattern of the headache, headaches that usually becomes more frequent and more severe, unexplained vomiting, vision problems, difficulty with balance, speech difficulties, difficulty making decision, inability to follow simple commands, personality or behaviour changes, hearing problems etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of brain cancer",
+            "patterns": [
+                "brain cancer diagnosis",
+                "what is diagnosis of brain cancer?",
+                "How brain cancer is diagnosed?",
+                "Can brain cancer diagnosed?",
+                "brain cancer treatment",
+                "how is brain cancer treated?"
+            ],
+            "responses": [
+                "If it's suspected that you have brain tumor, doctor may recommend tests and procedure like a neurological vision (examinig your vision, hearing, balance, reflexes), imaging tests (MRI test) and tissue biopsy (collecting and testing a sample of abnormal tissue). After these, determining the type of brain cancer and its treatment is a very complex process."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "breast cancer",
+            "patterns": [
+                "breast cancer",
+                "what is breast cancer?",
+                "define breast cancer",
+                "How breast cancer developed in the body?"
+            ],
+            "responses": [
+                "After lung cancer, breast cancer is the most common diagnosed cancer. It can occur in both men and women, but it's far more common in women. Due to substantial support and research funding, breast cancer survival rates are increased, and the number of deaths associated with this is stedily declining due to early detection, a better approach for treatment and a better understanding of disease."
+            ],
+            "context": [
+                "symptoms breast cancer, diagnosis of breast cancer"
+            ]
+        },
+        {
+            "tag": "symptoms breast cancer",
+            "patterns": [
+                "symptom of breast cancer",
+                "what are breast cancer symptoms?",
+                "tell me about breast cancer symptoms",
+                "breast cancer symptoms in body"
+            ],
+            "responses": [
+                "Several signs and symptoms of breast cancer may include a breast lump or thickening that feels different from the surrounding tissues, change in size + shape + apperance of breast, change to the skin over breast, redness or pitting of the skin over your breast etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of breast cancer",
+            "patterns": [
+                "breast cancer diagnosis",
+                "what is diagnosis of breast cancer?",
+                "How breast cancer is diagnosed?",
+                "Can breast cancer diagnosed?",
+                "breast cancer treatment",
+                "how is breast cancer treated?"
+            ],
+            "responses": [
+                "Tests and procedures used to diagnose breast cancer include Breast Exam (your doctor will check your breast for any nodes), Mammogram (X-Ray of the breast), Breast Ultrasound (may be used to determined whether the new breast lump is solid mass or fluid-filled cyst), Biopsy (removing a sample of breast cells for testing), Breast MRI etc. If cancer is confirmed, many test may be done to know about the staging (extent) of cancer."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "stomach cancer",
+            "patterns": [
+                "stomach cancer",
+                "what is stomach cancer?",
+                "define stomach cancer",
+                "How stomach cancer developed in the body?"
+            ],
+            "responses": [
+                "Stomach cancer is an abnormal growth of cells that begins in the stomach. Stomach cancer, also known as gastric cancer, can affect any part of the stomach. In most cases, stomach cancer form in the main part of the stomach (stomach body). But it can also affect in the gastroesophageal junction, the part where esophagus meets the stomach. Treatments are decided on the basis of where the cancer has occured in the stomach."
+            ],
+            "context": [
+                "symptoms stomach cancer, diagnosis of stomach cancer"
+            ]
+        },
+        {
+            "tag": "symptoms stomach cancer",
+            "patterns": [
+                "symptom of stomach cancer",
+                "what are stomach cancer symptoms?",
+                "tell me about stomach cancer symptoms",
+                "stomach cancer symptoms in body"
+            ],
+            "responses": [
+                "Several signs and symptoms of stomach cancer may include difficulty swallowing, felling bloated after eating, fellinf full after eating small amount of food, heartburn, indigestion, stomach pain, unintentional weight loss, vomiting etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of stomach cancer",
+            "patterns": [
+                "stomach cancer diagnosis",
+                "what is diagnosis of stomach cancer?",
+                "How stomach cancer is diagnosed?",
+                "Can stomach cancer diagnosed?",
+                "stomach cancer treatment",
+                "how is stomach cancer treated?"
+            ],
+            "responses": [
+                "Several tests and procedure used to diagnose stomach cancer are upper endoscopy (a tiny camera to see inside your stomach), biopsy (removing a small sample of tissues for testing), imaging tests (CT scans or X-ray). Later on, blood tests and endoscopic ultrasound can be done to decide extent of cancer and the treatments which suits best for you."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "bladder cancer",
+            "patterns": [
+                "bladder cancer",
+                "what is bladder cancer?",
+                "define bladder cancer",
+                "How bladder cancer developed in the body?"
+            ],
+            "responses": [
+                "Bladder cancer is a common type of cancer that begins in the cells (urothelial cells) that line inside of the bladder. These cells are also found in kidneys and the tubes (ureters) that connect the kidneys to the bladder. Urothelial cancer can begin in the kidneys and ureter but it's more common in the bladder. Most bladder cancer are diagnosed at an early stage but even after successful treatment, the cancer can come back. For this reason, follow-up tests for many years are recommended even after successful treatment."
+            ],
+            "context": [
+                "symptoms bladder cancer, diagnosis of bladder cancer"
+            ]
+        },
+        {
+            "tag": "symptoms bladder cancer",
+            "patterns": [
+                "symptom of bladder cancer",
+                "what are bladder cancer symptoms?",
+                "tell me about bladder cancer symptoms",
+                "bladder cancer symptoms in body"
+            ],
+            "responses": [
+                "Bladder cancer signs and symptoms may include blood in urine, frequent urination, painful urination and back pain etc. You should contact to your doctor when you see a discolored urine, that may be blood."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of bladder cancer",
+            "patterns": [
+                "bladder cancer diagnosis",
+                "what is diagnosis of bladder cancer?",
+                "How bladder cancer is diagnosed?",
+                "Can bladder cancer diagnosed?",
+                "bladder cancer treatment",
+                "how is bladder cancer treated?"
+            ],
+            "responses": [
+                "Tests and procedures used to diagnose bladder cancer may include cystoscopy (using a scope to examine the inside of your bladder), urine cytology (examining a urine sample), biopsy (removing a sample of tissue for testing) etc. After confirming you have bladder cancer, the doctor may recommend tests like CT Scan, MRI, Bone Scan etc. to determine the extent (staging) of cancer."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "kidney cancer",
+            "patterns": [
+                "kidney cancer",
+                "what is kidney cancer?",
+                "define kidney cancer",
+                "How kidney cancer developed in the body?"
+            ],
+            "responses": [
+                "Kidney cancer is the cancer that begins in the kidneys. in adults, renal cell carcinoma is the most common type of kidney cancer. Young children are more likely to develope a kind of kidney cancer called Wilm's Tumor. incidences pertaining to kidney cancer are on the rise. One fact is the use of imaging techniques (CT Scans) more often, which led to accidental discovery of these kidneys cancer at an early stage."
+            ],
+            "context": [
+                "symptoms kidney cancer, diagnosis of kidney cancer"
+            ]
+        },
+        {
+            "tag": "symptoms kidney cancer",
+            "patterns": [
+                "symptom of kidney cancer",
+                "what are kidney cancer symptoms?",
+                "tell me about kidney cancer symptoms",
+                "kidney cancer symptoms in body"
+            ],
+            "responses": [
+                "Kidney cancer doesn't have signs or symptoms in its early stages. In time, signs or symptoms like blood in the urine (which may appear pink or cola),  pain in the back that doesn't go away, loss of appetite, tiredness, fever etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of kidney cancer",
+            "patterns": [
+                "kidney cancer diagnosis",
+                "what is diagnosis of kidney cancer?",
+                "How kidney cancer is diagnosed?",
+                "Can kidney cancer diagnosed?",
+                "kidney cancer treatment",
+                "how is kidney cancer treated?"
+            ],
+            "responses": [
+                "Tests and procedures used to diagnose kidney cancer include blood and urine tests, imaging test (CT Scan, X-Ray, MRI), tissue biopsy (removing a sample of kidney tissue). Other tests might be done to know the extent of cancer you have. For most kidney cancers, surgery is the intial treatment. The goal is to remove the cancer while preserving normal kidney function, when possible."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "liver cancer",
+            "patterns": [
+                "liver cancer",
+                "what is liver cancer?",
+                "define liver cancer",
+                "How liver cancer developed in the body?"
+            ],
+            "responses": [
+                "Several types of liver cancer can form in the liver. The most common type of liver cancer is hepatocellular carcinoma, which begins in main liver cells (hepatocyte). Other types of liver cancer, such as intrahepatic cholangiocarcinoma and hepatoblastoma, are less common. Also, cancer that spreads to the liver is more common that cancer that begins in the liver cells. Cancer that begins in another area of the body - such as the colon, lung, breast - and then spreads to the liver is called metastatic cancer rather than liver cancer. This type of cancer is named after the organ in which it began such as metastatic colon cancer which begins in the colon and spreads to the liver."
+            ],
+            "context": [
+                "symptoms liver cancer, diagnosis of liver cancer"
+            ]
+        },
+        {
+            "tag": "symptoms liver cancer",
+            "patterns": [
+                "symptom of liver cancer",
+                "what are liver cancer symptoms?",
+                "tell me about liver cancer symptoms",
+                "liver cancer symptoms in body"
+            ],
+            "responses": [
+                "Most people don't have signs and symptoms in the early stages of the primary liver cancer. While signs and symptoms may include losing weight without trying, loss of appetite, nausea and vomiting, abdominal swelling, yellow discoloration of your skin and whites of your eyes (jaundice), white + chalky stools etc. "
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of liver cancer",
+            "patterns": [
+                "liver cancer diagnosis",
+                "what is diagnosis of liver cancer?",
+                "How liver cancer is diagnosed?",
+                "Can liver cancer diagnosed?",
+                "liver cancer treatment",
+                "how is liver cancer treated?"
+            ],
+            "responses": [
+                "Tests and procedures to diagnose liver cancer may include blood tests, imaging tests (ultrasound, CT, MRI), removing a sample of liver tissues for testing (biopsy). More tests can be done to determine the staging (size and location) of the cancer."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "prostate cancer",
+            "patterns": [
+                "prostate cancer",
+                "what is prostate cancer?",
+                "define prostate cancer",
+                "How prostate cancer developed in the body?"
+            ],
+            "responses": [
+                "Prostate cancer is one of the most common types of cancer found in men. Many prostate cancers grow slowly and are confined to the prostate gland, where they may not cause serious harm. However, while some types of prostate cancer grow slowly and may need minimal or even no treatment, other types are aggressive and can spread quickly. Prostate cancer that's detected early — when it's still confined to the prostate gland — has the best chance for successful treatment."
+            ],
+            "context": [
+                "symptoms prostate cancer, diagnosis of prostate cancer"
+            ]
+        },
+        {
+            "tag": "symptoms prostate cancer",
+            "patterns": [
+                "symptom of prostate cancer",
+                "what are prostate cancer symptoms?",
+                "tell me about prostate cancer symptoms",
+                "prostate cancer symptoms in body"
+            ],
+            "responses": [
+                "Advaced stage prostate cancer may have following signs and symptoms such as trouble urinating, decreased force in the stream of urine, blood in the urine, blood in the semen, erectile dysfunction, losing weight without trying etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of prostate cancer",
+            "patterns": [
+                "prostate cancer diagnosis",
+                "what is diagnosis of prostate cancer?",
+                "How prostate cancer is diagnosed?",
+                "Can prostate cancer diagnosed?",
+                "prostate cancer treatment",
+                "how is prostate cancer treated?"
+            ],
+            "responses": [
+                "Diagnosis of prostate cancer starts with screening tests which include Digital Rectal Exam (DRE) or Prostate-Specific Antigen (PSA) test. If screening tests have any abnormalitites, further tests may include Ultrasound, Magnetic Resonance Imaging (MRI), Prostate Tissue Biopsy (collecting a sample of prostate tissue). If the prostate cancer is agressive, tests like gleason score (grade of prostate cancer cells), genomic testing (determining gene mutations present in prostate cancer cells). Furthur tests like Bone Scan, Ultrasound, MRI (Magnetic Resonance Imaging) and PET Scan (Positron Emission Tomography) may be done to know about the spreding of the prostate cancer."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ovarian cancer",
+            "patterns": [
+                "ovarian cancer",
+                "what is ovarian cancer?",
+                "define ovarian cancer",
+                "How ovarian cancer developed in the body?"
+            ],
+            "responses": [
+                "Ovarian cancer is a growth of cells that forms in the ovaries of the female reproductive system. The cells multiply quickly and can invade and destroy healthy body tissue. Ovarian cancer treatment usually involves surgery and chemotherapy."
+            ],
+            "context": [
+                "symptoms ovarian cancer, diagnosis of ovarian cancer"
+            ]
+        },
+        {
+            "tag": "symptoms ovarian cancer",
+            "patterns": [
+                "symptom of ovarian cancer",
+                "what are ovarian cancer symptoms?",
+                "tell me about ovarian cancer symptoms",
+                "ovarian cancer symptoms in body"
+            ],
+            "responses": [
+                "Intially, ovarian cancer doesn't show any symptoms but in advance stages, symptoms like abdominal bloating or swelling, quickly felling full when eating, weight loss, discomfort in the pelvic area, fatigue, back pain, constipation, a frequent need to urinate etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of ovarian cancer",
+            "patterns": [
+                "ovarian cancer diagnosis",
+                "what is diagnosis of ovarian cancer?",
+                "How ovarian cancer is diagnosed?",
+                "Can ovarian cancer diagnosed?",
+                "ovarian cancer treatment",
+                "how is ovarian cancer treated?"
+            ],
+            "responses": [
+                "Tests and procedures used to diagnose ovarian cancer include Pelvic Exam (examining pelvic organs), Imaging Test (ultrasound or CT scans of the abdomen and pelvis), Blood Tests (organ function tests). Doctors may recommend Surgery (removing of a ovary and get it tested for signs of cancer) and Genetic Testing (checking for gene changes that might have caused ovarian cancer) to know about cancer staging and extent."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "colorectal cancer",
+            "patterns": [
+                "colorectal cancer",
+                "what is colorectal cancer?",
+                "define colorectal cancer",
+                "How colorectal cancer developed in the body?"
+            ],
+            "responses": [
+                "Colon cancer is the type of cancer that begins in the large intestine (colon, which is the final part of the digestive tract). Colon cancer generally affects older adults, though it can happen at any age. It usually begins as small, noncancerous (benign) clumps of cells called polyps that form on the inside of the colon, which can become colon cancer over time. Sometime, when the cancer begins in rectum called as rectal cancer, and spreads to colon then they are combined called as colorectal cancer."
+            ],
+            "context": [
+                "symptoms colorectal cancer, diagnosis of colorectal cancer"
+            ]
+        },
+        {
+            "tag": "symptoms colorectal cancer",
+            "patterns": [
+                "symptom of colorectal cancer",
+                "what are colorectal cancer symptoms?",
+                "tell me about colorectal cancer symptoms",
+                "colorectal cancer symptoms in body"
+            ],
+            "responses": [
+                "In early stages, no symptoms appear but later on appearing symptoms vary, depending on the cancer's size and location in your large intestine. Several signs and symptoms of colon cancer include a persistent change in your bowel habits (including diarrhea or constipation), rectal bleeding or blood in your stool, persistent abdominal discomfort (such as cramps, gas or pain), a feeling that your bowel doesn't empty completely, weakness or fatigue, unexplained weight loss etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of colorectal cancer",
+            "patterns": [
+                "colorectal cancer diagnosis",
+                "what is diagnosis of colorectal cancer?",
+                "How colorectal cancer is diagnosed?",
+                "Can colorectal cancer diagnosed?",
+                "colorectal cancer treatment",
+                "how is colorectal cancer treated?"
+            ],
+            "responses": [
+                "Doctor recommends certain screening tests for healthy people around age 50, who has no signs or symptoms of colon cancer or polyps in order to finding the colon cancer at its earliest stage provides the greatest chance of cure, that also reduces your risk of dying of colon cancer. if your signs or symptons indicate that you have colon cancer, doctor may recommend tests like Colonoscopy (using a scope to examine the inside of your colon), Biopsy (taking tissues sample of the suspicious area found during colonscopy)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "pancreatic cancer",
+            "patterns": [
+                "pancreatic cancer",
+                "what is pancreatic cancer?",
+                "define pancreatic cancer",
+                "How pancreatic cancer developed in the body?"
+            ],
+            "responses": [
+                "Pancreatic cancer begins in the tissues of your pancreas. Several types of growths can occur in the pancreas, including cancerous and noncancerous tumors. The most common type of cancer is pancreatic ductal adenocarcinoma, which begins in the cells that line the ducts carrying digestive enzymes out of the pancreas. Pancreatic cancer rarely detected at it's early stages when it's most curable, this is because it often don't cause symptoms until it has spread to other parts of the body."
+            ],
+            "context": [
+                "symptoms pancreatic cancer, diagnosis of pancreatic cancer"
+            ]
+        },
+        {
+            "tag": "symptoms pancreatic cancer",
+            "patterns": [
+                "symptom of pancreatic cancer",
+                "what are pancreatic cancer symptoms?",
+                "tell me about pancreatic cancer symptoms",
+                "pancreatic cancer symptoms in body"
+            ],
+            "responses": [
+                "In advanced stages of pancreatic cancer, signs and symptoms like abdominal pain that radiated to your back, loss of appetite, light-colored stools, dark-colored urine, blood clots, fatigue etc. are very common."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of pancreatic cancer",
+            "patterns": [
+                "pancreatic cancer diagnosis",
+                "what is diagnosis of pancreatic cancer?",
+                "How pancreatic cancer is diagnosed?",
+                "Can pancreatic cancer diagnosed?",
+                "pancreatic cancer treatment",
+                "how is pancreatic cancer treated?"
+            ],
+            "responses": [
+                "If doctor suspects pacreatic cancer, tests like Imaging Tests (like CT Scan, MRI, PET etc.) to create pictures of the internal organs, Endoscopic Ultrasound (to create pictures of pancreas), Tissue Biopsy (microscopic examination of small sample of pancreatic tissue)."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "thyroid cancer",
+            "patterns": [
+                "thyroid cancer",
+                "what is thyroid cancer?",
+                "define thyroid cancer",
+                "How thyroid cancer developed in the body?"
+            ],
+            "responses": [
+                "Thyroid cancer occurs in the cells of the thyroid, which may not cause any symptoms first but as it grows, it can cause pain and swelling in your neck. Several types of thyroid cancer exist. Some grow very slowly and others can be very aggressive. There is a rise in the number of thyroid cancer cases as new technology is allowing them to find even small thyroid cancer that may not have been found in the past."
+            ],
+            "context": [
+                "symptoms thyroid cancer, diagnosis of thyroid cancer"
+            ]
+        },
+        {
+            "tag": "symptoms thyroid cancer",
+            "patterns": [
+                "symptom of thyroid cancer",
+                "what are thyroid cancer symptoms?",
+                "tell me about thyroid cancer symptoms",
+                "thyroid cancer symptoms in body"
+            ],
+            "responses": [
+                "As thyroid cancer grows, symptoms like a lump (nodule) that can be felt through skin on your neck, change to your voice (increasing hoarseness), difficulty swallowing, pain in your neck and throat, swollen lymph nodes in your back etc. may appear."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of thyroid cancer",
+            "patterns": [
+                "thyroid cancer diagnosis",
+                "what is diagnosis of thyroid cancer?",
+                "How thyroid cancer is diagnosed?",
+                "Can thyroid cancer diagnosed?",
+                "thyroid cancer treatment",
+                "how is thyroid cancer treated?"
+            ],
+            "responses": [
+                "For diagnosis of thyroid cancer, tests and procedures include Physical Exam (checking neck for a lymph), Blood Test (to determine whether the thyroid gland is functioning normally), Ultrasound Imaging (Creating an image of the thyroid), Tissue Biopsy (removing a sample of thyroid tissue) etc. Other imaging tests like CT, MRI and nuclear imaging tests may help in understanding the spreadness of the cancer beyond thyroid."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "uterine cancer",
+            "patterns": [
+                "uterine cancer",
+                "endometrial cancer",
+                "what is uterine cancer?",
+                "what is endometrial cancer",
+                "define uterine cancer",
+                "defone endomerial cancer",
+                "How uterine cancer developed in the body?"
+            ],
+            "responses": [
+                "Endometrial cancer (also known as uterine cancer) is a type of cancer that begins in the uterus. Endometrial cancer begins in the layer of cells that form the lining (endometrium) of the uterus. Other types of cancer can form in the uterus, including uterine sarcoma, but they are much less common than endometrial cancer. Endometrial cancer is often detected at an early stage because it frequently produces abnormal vaginal bleeding. If endometrial cancer is discovered early, removing the uterus surgically often cures endometrial cancer."
+            ],
+            "context": [
+                "symptoms uterine cancer, diagnosis of uterine cancer"
+            ]
+        },
+        {
+            "tag": "symptoms uterine cancer",
+            "patterns": [
+                "symptom of uterine cancer",
+                "symptom of endometrial cancer",
+                "what are uterine cancer symptoms?",
+                "what are endometrial cancer symptoms?",
+                "tell me about uterine cancer symptoms",
+                "uterine cancer symptoms in body",
+                "endometrial cancer symptoms in the body"
+            ],
+            "responses": [
+                "Endometrial or Uterine cancer common signs and symptoms are Vaginal bleeding after menopause, Bledding between periods and Pelvic pain etc."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of uterine cancer",
+            "patterns": [
+                "uterine cancer diagnosis",
+                "endometrial cancer diagnosis",
+                "what is diagnosis of uterine cancer?",
+                "How uterine cancer is diagnosed?",
+                "How endometrial cancer is diagnosed?",
+                "Can uterine cancer diagnosed?",
+                "uterine cancer treatment",
+                "endometrial cancer treatment",
+                "how is uterine cancer treated?",
+                "how is endometrial cancer trated?"
+            ],
+            "responses": [
+                "Tests and procedure used to diagnose endometrial cancer include examining the pelvis, Transvaginal Ultrasound (using sound waves to create a picture of your uterus), Hysteroscopy (using a scope to examine your endometrium), Endometrial Biopsy (removing a sample of tissue for testing) etc. Furthur tests may be done to determine the extent of your cancer."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cervical cancer",
+            "patterns": [
+                "cervical cancer",
+                "what is cervical cancer?",
+                "define cervical cancer",
+                "How cervical cancer developed in the body?"
+            ],
+            "responses": [
+                "Cervical cancer is a type of cancer that occurs in the cells of the cervix  the lower part of the uterus that connects to the vagina. Mainly Human Papillomavirus (HPV), a sexually transmitted infection, plays a role in causing most cervical cancer. When exposed to HPV, the body's immune system prevents the virus from doing harm. However, the virus survives for years, contributing to the process that causes some cervical cells to become cancer cells. Risk of cervical cancer can be reduced by having screening tests and receiving a vaccine that protects against HPV infection."
+            ],
+            "context": [
+                "symptoms cervical cancer, diagnosis of cervical cancer"
+            ]
+        },
+        {
+            "tag": "symptoms cervical cancer",
+            "patterns": [
+                "symptom of cervical cancer",
+                "what are cervical cancer symptoms?",
+                "tell me about cervical cancer symptoms",
+                "cervical cancer symptoms in body"
+            ],
+            "responses": [
+                "A more-advanced cervical cancer produces signs and symptoms which include Vaginal bleeding after intercourse (even between periods or after menopause), watery + bloody vaginal discharge that may be heavy and have a foul odor, pelvic pain or pain during intercourse etc. may appear."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of cervical cancer",
+            "patterns": [
+                "cervical cancer diagnosis",
+                "what is diagnosis of cervical cancer?",
+                "How cervical cancer is diagnosed?",
+                "Can cervical cancer diagnosed?",
+                "cervical cancer treatment",
+                "how is cervical cancer treated?"
+            ],
+            "responses": [
+                "Screening tests can help detect cervical cancer and precancerous cells that may one day develop into cervical cancer. These tests include Pap Test (cells from the cervix gets examined in a lab for abnormalities) and HPV DNA Test (testing cells collected from cervix for infection with any of the types of HPV). If cervical cancer is suspected, a special magnifying instrument (colposcope) is used to check for abnormal cells. During the colposcopic examination, doctor will take a sample of cervical cells (biopsy) for laboratory testing. If your doctor determines that you have cervical cancer, you'll have further tests to determine the extent (stage) of your cancer. Your cancer's stage is a key factor in deciding on your treatment."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "anal cancer",
+            "patterns": [
+                "anal cancer",
+                "what is anal cancer?",
+                "define anal cancer",
+                "How anal cancer developed in the body?"
+            ],
+            "responses": [
+                "Anal cancer is an uncommon type of cancer that occurs in the anal canal. Anal cancer can cause signs and symptoms such as rectal bleeding and anal pain. Most people with anal cancer are treated with a combination of chemotherapy and radiation. Though combining anal cancer treatments increases the chance of a cure, the combined treatments also increase the risk of side effects."
+            ],
+            "context": [
+                "symptoms anal cancer, diagnosis of anal cancer"
+            ]
+        },
+        {
+            "tag": "symptoms anal cancer",
+            "patterns": [
+                "symptom of anal cancer",
+                "what are anal cancer symptoms?",
+                "tell me about anal cancer symptoms",
+                "anal cancer symptoms in body"
+            ],
+            "responses": [
+                "Anal cancer signs and symptoms include bleeding from the anus or rectum, pain in the area of the anus, a mass or growth in the anal canal and anal itching."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "diagnosis of anal cancer",
+            "patterns": [
+                "anal cancer diagnosis",
+                "what is diagnosis of anal cancer?",
+                "How anal cancer is diagnosed?",
+                "Can anal cancer diagnosed?",
+                "anal cancer treatment",
+                "how is anal cancer treated?"
+            ],
+            "responses": [
+                "Test and procedures used to diagnose anal cancer includes examining your anal canal and rectum for abnormalities, visually inspecting your anal canal and rectum (anoscope), ultrasound of anal canal and tissue biopsy (removing a sample of tissues for laboratory testing). Once it's confirmed that you have anal cancer, your doctor may recommend additional tests like CT Scan, MRI or PET etc. to determine whether cancer has spread to lymph nodes or to other areas of body."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "staging in cancer",
+            "patterns": [
+                "Stages of cancer",
+                "how cancer staging take place",
+                "how cancer is divided on the basis of staging",
+                "cancer stages"
+            ],
+            "responses": [
+                "Staging is a way of describing the size of a cancer and how far it has grown. Staging is important because it helps your treatment team to know which treatments you need. There are 2 main types of staging systems for cancer. These are the TNM system and the number system. The TNM staging system stands for Tumour (size of the tumour), Node (checking for cancer cells in the lymph node), Metastasis (whether the cancer has spread to other parts of the body or not). Number staging systems use the TNM system to divide cancers into stages. Most types of cancer have 4 stages, numbered from 1 to 4. Furthur, letters A, B, C are used to divide the number categories."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "prevention of cancer",
+            "patterns": [
+                "cancer prevention",
+                "how to avoid getting cancer?",
+                "what are the steps to be taken to prevent getting cancer?",
+                "how to prevent cancer?"
+            ],
+            "responses": [
+                "A simple change in lifestyle makes a big difference. Some cancer prevention tipes include avoiding tobacco, eating a healthy diet (eating fruits and vegetables), maintaining helthy weight, being physically active, protecting yourself from the sun, get vaccinated (hepatitis B, HPV vaccinations), avoiding risky behavious (practicing safe sex, not sharing needles), get regular medical care etc."
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
