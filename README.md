@@ -1,1 +1,1 @@
-This is the final edit for this project and i am going to test it out before sending it back.
+This project is a rule-based chatbot which takes user's input and give back stored responses. The database is self created through various articles and research.
